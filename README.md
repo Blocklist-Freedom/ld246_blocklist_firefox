@@ -1,0 +1,1 @@
+# ld246_blocklist_firefox
